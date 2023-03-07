@@ -1,6 +1,5 @@
 # Mobile-phone-Signaling-Data
 ## 提供了手机信令数据
-字段里面：
 "LAT":GPS纬度
 
 "LNG":GPS经度
