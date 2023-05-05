@@ -13,7 +13,8 @@ DAYS,TIMES: the timestamp of the Mobile phone signaling data
 "CELLLNG": longitude of cell tower which the phone is presently connected to.
 
 
-## Citation
+##  Citation
+
 If you publish work based on, or using, this dataset, we would appreciate citations to the following:
 @inproceedings{Mobile-phone-Signaling-Data,
   author    = { Huang, Yulang; Wang, Dianhai; Xu, Wang; Cai, Zhengyi},
@@ -22,6 +23,6 @@ If you publish work based on, or using, this dataset, we would appreciate citati
 }
 
 
-##License
+##  License
 
 This library is licensed under the CC-BY-4.0 License.
