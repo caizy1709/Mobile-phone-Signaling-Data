@@ -1,6 +1,6 @@
 # Mobile-phone-Signaling-Data
 ##  Description
-This dataset was collected by volunteers from October 2021 to November 2021 with GPS trajectory data and MSD.Each row of data contains the latitude and longitude of the GPS and the base station connected when the mobile phone signaling is generated, wherein the latitude and longitude of the GPS can be used as the real position, and the latitude and longitude of the base station connected to the mobile phone is the position in the signaling data of the mobile phone. For privacy protection, we deleted the volunteer id, which does not affect the research on the trace matching of mobile phone signaling data.
+This dataset was collected by volunteers from October25 2021 to October30 2021 with GPS trajectory data and MSD.Each row of data contains the latitude and longitude of the GPS and the base station connected when the mobile phone signaling is generated, wherein the latitude and longitude of the GPS can be used as the real position, and the latitude and longitude of the base station connected to the mobile phone is the position in the signaling data of the mobile phone. For privacy protection, we deleted the volunteer id, which does not affect the research on the trace matching of mobile phone signaling data.
 
 DAYS,TIMES: the timestamp of the Mobile phone signaling data
 
